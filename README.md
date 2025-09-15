@@ -18,7 +18,7 @@ It includes authentication with **OAuth**, state management with **Redux Toolkit
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React, Redux Toolkit, TypeScript, TailwindCSS  
+**Frontend:** React, Redux Toolkit, javascript, TailwindCSS  
 **Backend:** Node.js, Express.js, TypeScript  
 **Database:** MongoDB (Mongoose ODM)  
 **Auth:** OAuth 2.0, JWT  
